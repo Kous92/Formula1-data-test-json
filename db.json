@@ -1,0 +1,126 @@
+{
+    "drivers": [
+        {
+            "id": 1,
+            "name": "Max VERSTAPPEN"
+        },
+        {
+            "id": 2,
+            "name": "Sergio PEREZ"
+        },
+        {
+            "id": 3,
+            "name": "Charles LECLERC"
+        },
+        {
+            "id": 4,
+            "name": "Carlos SAINZ"
+        },
+        {
+            "id": 5,
+            "name": "George RUSSELL"
+        },
+        {
+            "id": 6,
+            "name": "Lewis HAMILTON"
+        },
+        {
+            "id": 7,
+            "name": "Esteban OCON"
+        },
+        {
+            "id": 8,
+            "name": "Pierre GASLY"
+        },
+        {
+            "id": 9,
+            "name": "Oscar PIASTRI"
+        },
+        {
+            "id": 10,
+            "name": "Lando NORRIS"
+        },
+        {
+            "id": 11,
+            "name": "Valtteri BOTTAS"
+        },
+        {
+            "id": 12,
+            "name": "Zhou GUANYU"
+        },
+        {
+            "id": 13,
+            "name": "Lance STROLL"
+        },
+        {
+            "id": 14,
+            "name": "Fernando ALONSO"
+        },
+        {
+            "id": 15,
+            "name": "Kevin MAGNUSSEN"
+        },
+        {
+            "id": 16,
+            "name": "Nico HULKENBERG"
+        },
+        {
+            "id": 17,
+            "name": "Nyck DE VRIES"
+        },
+        {
+            "id": 18,
+            "name": "Yuki TSUNODA"
+        },
+        {
+            "id": 19,
+            "name": "Alexander ALBON"
+        },
+        {
+            "id": 20,
+            "name": "Logan SARGEANT"
+        }
+    ],
+    "teams": [
+        {
+            "id": 1,
+            "teamName": "Red Bull Racing"
+        },
+        {
+            "id": 2,
+            "teamName": "Ferrari"
+        },
+        {
+            "id": 3,
+            "teamName": "Mercedes"
+        },
+        {
+            "id": 4,
+            "teamName": "Alpine"
+        },
+        {
+            "id": 5,
+            "teamName": "McLaren"
+        },
+        {
+            "id": 6,
+            "teamName": "Alfa Romeo"
+        },
+        {
+            "id": 7,
+            "teamName": "Aston Martin"
+        },
+        {
+            "id": 8,
+            "teamName": "HAAS F1 Team"
+        },
+        {
+            "id": 9,
+            "teamName": "Alfa Tauri"
+        },
+        {
+            "id": 10,
+            "teamName": "Williams"
+        }
+    ]
+}
