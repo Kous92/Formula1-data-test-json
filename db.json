@@ -105,52 +105,52 @@
         {
             "id": 1,
             "teamName": "Red Bull Racing",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/RedBullRacingF1team.jpg"
         },
         {
             "id": 2,
             "teamName": "Ferrari",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/ScuderiaFerrariF1.png"
         },
         {
             "id": 3,
             "teamName": "Mercedes",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/MercedesAMGPetronasF1.png"
         },
         {
             "id": 4,
             "teamName": "Alpine",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/AlpineF1team.jpg"
         },
         {
             "id": 5,
             "teamName": "McLaren",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/McLarenF1team.png"
         },
         {
             "id": 6,
             "teamName": "Alfa Romeo",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/AlfaRomeoF1team.png"
         },
         {
             "id": 7,
             "teamName": "Aston Martin",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/AstonMartinF1team.jpg"
         },
         {
             "id": 8,
             "teamName": "HAAS F1 Team",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/HaasF1team.png"
         },
         {
             "id": 9,
-            "teamName": "Alfa Tauri",
-            "imageURL": ""
+            "teamName": "Alpha Tauri",
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/ScuderiaAlphaTauriF1.png"
         },
         {
             "id": 10,
             "teamName": "Williams",
-            "imageURL": ""
+            "imageURL": "https://github.com/Kous92/Formula1-data-test-json/raw/main/WilliamsF1.png"
         }
     ]
 }
